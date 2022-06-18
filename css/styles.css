@@ -37,3 +37,19 @@
   .navbar-dark{
     background-color: #512DA8
   }
+
+  .tab-content{
+    background-color : rgb(147, 164, 247);
+    border-left: 1px solid rgb(237, 239, 96);
+    border-right: 1px solid rgb(237, 239, 96);
+    border-bottom: 1px solid rgb(237, 239, 96);
+    padding : 10px;
+  }
+
+  .nav-items{
+    background-color: rgb(168, 226, 255);
+    border-left: 1px solid rgb(166, 242, 246);
+    border-right: 1px solid rgb(166, 242, 246);
+    border-top: 1px solid rgb(166, 242, 246);
+    border-bottom: 1px solid rgb(237, 239, 96)
+  }
